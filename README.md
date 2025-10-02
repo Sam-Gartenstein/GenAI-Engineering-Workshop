@@ -39,3 +39,4 @@ This workshop is divided into three parts, each focusing on practical skills and
 
 ## Acknowledgments
 Workshop created and maintained by **Sam Gartenstein**.
+Contributions by [**Laura Uguccioni**](https://github.com/laurauguc)
