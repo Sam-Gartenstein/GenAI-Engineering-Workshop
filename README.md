@@ -23,7 +23,8 @@ This workshop is divided into three parts, each focusing on practical skills and
 - **Format:** Hands-on exploration and discussion  
 - **Topics:**
   - Model comparison and benchmarking  
-  - Cost reduction strategies  
+  - Cost reduction strategies
+  - Types of AI Agents
   - LLM-as-judge methodology for evaluations  
 - **Notebook:** *Coming soon*
 
