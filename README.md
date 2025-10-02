@@ -13,14 +13,11 @@ This workshop is divided into three parts, each focusing on practical skills and
 - **Topics:** Basics of using OpenAI APIs, prompt design, and workflow setup.  
 - **Notebook:** [Generative AI Getting Started (Part 1)](https://colab.research.google.com/github/Sam-Gartenstein/GenAI-Engineering-Workshop/blob/main/Generative%20AI%20Getting%20Started%20Part%201.ipynb)
 
----
 
 ### Part 2: LLM-Based Synthetic Dataset Creation
 - **Format:** Guided use case  
 - **Topics:** How to generate synthetic data with LLMs for research and experimentation  
 - **Notebook:** *Coming soon*
-
----
 
 ### Part 3: Advanced Topics in Generative AI
 - **Format:** Hands-on exploration and discussion  
@@ -29,13 +26,6 @@ This workshop is divided into three parts, each focusing on practical skills and
   - Cost reduction strategies  
   - LLM-as-judge methodology for evaluations  
 - **Notebook:** *Coming soon*
-
----
-
-## Who Should Attend
-- Columbia University **QMSS students**  
-- Researchers and practitioners interested in **LLM applications**  
-- Anyone curious about **hands-on generative AI engineering**
 
 ---
 
