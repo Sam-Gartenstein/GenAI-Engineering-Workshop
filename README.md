@@ -11,7 +11,7 @@ This workshop is divided into three parts, each focusing on practical skills and
 ### Part 1: Getting Started with OpenAI APIs
 - **Format:** Google Colab notebook  
 - **Topics:** Basics of using OpenAI APIs, prompt design, and workflow setup.  
-- **Notebook:** [Generative AI Getting Started (Part 1)](https://colab.research.google.com/github/Sam-Gartenstein/GenAI-Engineering-Workshop/blob/main/Generative%20AI%20Getting%20Started%20Part%201.ipynb)
+- **Notebook:** [Part 1: Guide to OpenAI in Google Colab](https://colab.research.google.com/github/Sam-Gartenstein/GenAI-Engineering-Workshop/blob/main/Part%201%3A%20Guide%20to%20OpenAI%20in%20Google%20Colab.ipynb)
 
 
 ### Part 2: LLM-Based Synthetic Dataset Creation
