@@ -11,13 +11,13 @@ This workshop is divided into three parts, each focusing on practical skills and
 ### Part 1: Getting Started with OpenAI APIs
 - **Format:** Google Colab notebook  
 - **Topics:** Basics of using OpenAI APIs, prompt design, and workflow setup.  
-- **Notebook:** [Part 1: Guide to OpenAI in Google Colab](https://colab.research.google.com/github/Sam-Gartenstein/GenAI-Engineering-Workshop/blob/main/Part%201%3A%20Guide%20to%20OpenAI%20in%20Google%20Colab.ipynb)
+- **Notebook:** [Part 1: Guide to OpenAI in Google Colab](https://colab.research.google.com/drive/17-Grgrc4O6ZlH0Pa34ND-rM2MzrQwVuR?authuser=1)
 
 
 ### Part 2: LLM-Based Synthetic Dataset Creation
 - **Format:** Guided use case  
 - **Topics:** How to generate synthetic data with LLMs for research and experimentation  
-- **Notebook:** *Coming soon*
+- **Notebook:** [Part 2: Using LLM Agents for Essay Generation and Evaluation](https://colab.research.google.com/drive/1Odm2F9mXqf1-lHVCQeKiDPXSEdGyCcPq?authuser=1)
 
 ### Part 3: Advanced Topics in Generative AI
 - **Format:** Hands-on exploration and discussion  
