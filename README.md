@@ -17,7 +17,7 @@ This workshop is divided into three parts, each focusing on practical skills and
 ### Part 2: LLM-Based Synthetic Dataset Creation
 - **Format:** Guided use case  
 - **Topics:** How to generate synthetic data with LLMs for research and experimentation  
-- **Notebook:** [Part 2: Using LLM Agents for Essay Generation and Evaluation](https://colab.research.google.com/drive/1Odm2F9mXqf1-lHVCQeKiDPXSEdGyCcPq?authuser=1)
+- **Notebook:** [Part 2: Using LLM Agents for Synthetic Data Generation](https://colab.research.google.com/drive/1Odm2F9mXqf1-lHVCQeKiDPXSEdGyCcPq?authuser=1#scrollTo=2PTBJOxLCkQQ)
 
 ### Part 3: Advanced Topics in Generative AI
 - **Format:** Hands-on exploration and discussion  
